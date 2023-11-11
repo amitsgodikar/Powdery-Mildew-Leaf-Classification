@@ -1,4 +1,4 @@
-# Leaf Classification Project
+# Powdery Mildew Leaf Classification
 
 ## Overview
 
@@ -55,14 +55,3 @@ This project aims to classify leaf images based on their susceptibility using a 
 
 2. View Results: The classification results will be displayed, indicating the susceptibility category of the uploaded leaf.
 
-## Contribution
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** Make sure to replace "your-username" in the repository URL with your actual GitHub username.
