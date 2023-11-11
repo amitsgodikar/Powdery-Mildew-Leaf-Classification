@@ -1,4 +1,5 @@
 # Powdery-Mildew-Leaf-Classification
+
 Overview
 This project aims to classify leaf images based on their susceptibility using a deep learning model. The frontend is built using React.js, and the backend utilizes FastAPI. The core of the classification is powered by the EfficientNet B3 model.
 
